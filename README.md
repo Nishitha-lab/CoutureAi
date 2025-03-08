@@ -1,4 +1,4 @@
-<h2>CoutureAI</h2>h2><br>
+<h2>CoutureAI</h2><br>
 <h3></h3>Demo Link:</h3>
 https://drive.google.com/file/d/1tsMzIYDWXncuQzegr9AaFrDUKRQx6SAC/view?usp=sharing
 <br>
